@@ -1,0 +1,205 @@
+{
+	"appVendor": "Natus",
+	"appID": "HIS_Integration_Gateway",
+	"appVersion": "4.03.00",
+	"results": [
+		{
+			"id": 32,
+            "ts":"2026-05-04T12:41:39Z",
+			"traceId": "956278ab9d8c760e067c708789b075b4",
+			"workflowInstanceId": "",
+			"files": [
+                ""
+                ]
+		},
+		{
+			"id": 40,
+            "ts":"2026-05-04T12:56:20Z",
+			"traceId": "fbaa1847c7b1f076d34bd452f74d6267",
+			"workflowInstanceId": "",
+			"files": [
+                ""
+                ]
+		},
+		{
+			"id": 152,
+            "ts":"2026-04-28T12:12:04Z",
+			"traceId": "06932abdd43ecb79cdf553d49f53eea4",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.0c480b7806^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "KO_152.pdf"
+                ]
+		},
+		{
+			"id": 154,
+            "ts":"2026-04-24T10:38:57Z",
+			"traceId": "27583222912455cea30f7f1a9025cb8f",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.40d40ad388^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "KO_154.pdf"
+                ]
+		},
+		{
+			"id": 155,
+            "ts":"2026-04-24T10:48:03Z",
+			"traceId": "7b2a838e7df6b7eb7eddba5808fab16c",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.a2b24d8127^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "KO_155.pdf"
+                ]
+		},
+		{
+			"id": 156,
+            "ts":"2026-04-28T12:17:04Z",
+			"traceId": "374a627e685c6e4b0ff5e702f45f9364",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.0c08c36974^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "KO_156.pdf"
+                ]
+		},
+		{
+			"id": 159,
+            "ts":"2026-04-28T12:27:25Z",
+			"traceId": "a4190e175a646c5d4ca7e010494bf00e",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.48b43f01d5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "KO_159.pdf"
+                ]
+		},
+		{
+			"id": 160,
+            "ts":"2026-04-28T12:27:25Z",
+			"traceId": "2f6bc158a8e4d63ca205b5de265059bf",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.b96a425a7a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "KO_160.pdf"
+                ]
+		},
+		{
+			"id": 161,
+            "ts":"2026-04-30T10:30:33Z",
+			"traceId": "8c7426090358187efba16393e2248f66",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.c2c8761793^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "KO_161.pdf"
+                ]
+		},
+		{
+			"id": 162,
+            "ts":"2026-04-24T12:17:04Z",
+			"traceId": "7bee14c1fbad49e7c81573e1987d3f6e",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.a211bc2f61^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "KO_162.pdf"
+                ]
+		},
+		{
+			"id": 163,
+            "ts":"2026-04-24T12:22:02Z",
+			"traceId": "16fbd071fa78877873f96cd3c0c90ad9",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.2a4b589a76^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "KO_163.pdf"
+                ]
+		},
+		{
+			"id": 164,
+            "ts":"2026-04-24T12:30:32Z",
+			"traceId": "18e39dba36c3ec966f01f40b26378e8d",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.37a9ae4461^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "KO_164.pdf"
+                ]
+		},
+		{
+			"id": 165,
+            "ts":"2026-04-24T12:41:23Z",
+			"traceId": "e17b4737cadfe70ef0ed46f4bd71a8ec",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.7366e805aa^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "KO_165.pdf"
+                ]
+		},
+		{
+			"id": 166,
+            "ts":"2026-04-24T12:46:26Z",
+			"traceId": "8dfc2ffe9ceeed6418e63ea011430be6",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.9460854b80^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "KO_166.pdf"
+                ]
+		},
+		{
+			"id": 167,
+            "ts":"2026-04-24T12:54:29Z",
+			"traceId": "361c912618f975d881f0450c43591a54",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.6d20c3207c^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "KO_167.pdf"
+                ]
+		},
+		{
+			"id": 168,
+            "ts":"2026-04-24T13:02:06Z",
+			"traceId": "0b4ec1f82bdde98d17adcdfff8e14fb3",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.1dfc8b45ef^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "KO_168.pdf"
+                ]
+		},
+		{
+			"id": 169,
+            "ts":"2026-04-24T13:05:18Z",
+			"traceId": "0f093c60093d96ea850b44c791202921",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.f1619acd05^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "KO_169.pdf"
+                ]
+		},
+		{
+			"id": 448,
+            "ts":"2026-04-24T09:34:08Z",
+			"traceId": "879700994e7181b8a4835f2b3bec4ad0",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.c6530988ba^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "OK_448.pdf"
+                ]
+		},
+		{
+			"id": 449,
+            "ts":"2026-04-28T11:52:10Z",
+			"traceId": "487d99f26570d929f3dbfb317e2dbdf9",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.8e6f2fff5d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "OK_449.pdf"
+                ]
+		},
+		{
+			"id": 461,
+            "ts":"2026-04-24T13:10:51Z",
+			"traceId": "61a3c4ab2dac484b87ecc3e13cf17df0",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.fb0f40e4ff^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "KO_461.pdf"
+                ]
+		},
+		{
+			"id": 468,
+            "ts":"2026-04-24T13:15:40Z",
+			"traceId": "b10adb506f5ce92843b33b2902ff66e6",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.bd7bf823d1^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "KO_468.pdf"
+                ]
+		},
+		{
+			"id": 475,
+            "ts":"2026-04-30T10:30:33Z",
+			"traceId": "af08884a78551e66a2e9dced6249f127",
+			"workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.eadd7ba404^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "KO_475.pdf"
+                ]
+		}
+	]
+}
